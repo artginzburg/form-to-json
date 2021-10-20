@@ -1,6 +1,6 @@
 {
   "name": "@artginzburg/form-to-json",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple Express server that converts HTML forms to JSON and sends them to another endpoint",
   "main": "index.js",
   "keywords": [
