@@ -1,6 +1,6 @@
 const express = require('express');
 
-const app = require('./app');
+const app = require('./app').endpoint;
 
 const { PORT = 3000 } = process.env;
 
