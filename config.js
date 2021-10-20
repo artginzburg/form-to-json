@@ -1,3 +1,3 @@
 module.exports = {
-  url: 'http://localhost:3000/test',
+  url: 'http://exchange.rick.ai/webhooks/tur-na-kolskiy-ru/lead',
 };
