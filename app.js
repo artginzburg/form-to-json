@@ -34,4 +34,4 @@ app.post('/:type', async (req, res) => {
   }
 });
 
-module.exports = app;
+module.exports.endpoint = app;
